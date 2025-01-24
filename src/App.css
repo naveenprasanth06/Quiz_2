@@ -8,7 +8,7 @@ body {
   justify-content: center;
   text-align: center;
   align-items: center;
-  color: coral;
+  color: blanchedalmond;
   font-size: 24px;
   font-family: Arial, sans-serif;
   transform: translateX(-40px);
@@ -40,7 +40,7 @@ body {
 button {
   margin: 0;
   padding: 12px;
-  background-color: aqua;
+  background-color: white;
   border-radius: 30px;
   cursor: pointer;
   transition: background-color 0.4s, transform 0.2s;
@@ -54,11 +54,11 @@ button:hover {
 }
 
 .timer {
-  color: green;
+  color: blanchedalmond;
   font-size: 30px;
   margin-top: 20px;
 }
 
 .timer span {
-  color: red;
+  color: coral;
 }

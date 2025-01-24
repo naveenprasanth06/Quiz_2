@@ -59,10 +59,10 @@ function App() {
   return (
     <div>
       <div className="quiz-app">
-        <h1 className="game-title">Jackpot Genius</h1>
+        <h1 className="game-title">JACKPOT GENIUS</h1>
         {showWelcome ? (
           <div className="welcome-screen">
-            <h1>WELCOME TO Jackpot Genius</h1>
+            <h1>Welcome Genius</h1>
             <button onClick={startQuiz}>Enter to the Game</button>
           </div>
         ) : showScore ? (
